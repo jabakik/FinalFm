@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">FinalFm</string>
+    <string name="fm_login_title">Login in to your \nAccount</string>
+    <string name="email_title">Email</string>
+    <string name="password_title">password</string>
+    <string name="account_signup">Do you not have a Lastfm account?</string>
+    <string name="sign_up_here">Sign up here</string>
+    <string name="hint_password">********</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="fm_signup_title">Sign up</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="choose_avatar">Choose Avatar</string>
+    <string name="sign_up">Sign up</string>
+    <string name="log_in">Log in</string>
+    <string name="fm_category">%1$s</string>
+    <string name="fm_listeners">Listeners: %1$s</string>
+    <string name="fm_app_name">Last fm app</string>
+    <string name="select_your_genre">Select your genre</string>
+    <string name="fm_song_title">Title\n %1$s</string>
+    <string name="fm_artist_title">Artist\n %1$s</string>
+    <string name="fm_position">Position\n %1$s</string>
+    <string name="read_more">Read More</string>
+    <string name="search_in_category">Search albums in Rock</string>
+    <string name="search_here">Search Here…</string>
+    <string name="saved_albums">Saved albums</string>
+    <string name="here_u_see">Here you can see saved \nalbums</string>
+    <string name="button_save">Save</string>
+    <string name="fm_song_title_about">%1$s</string>
+    <string name="fm_by">By</string>
+    <string name="artist_about">%1$s</string>
+    <string name="fm_user_hello">Hello %1$s</string>
+    <string name="fm_saved_albums">You have saved %1$s Albums</string>
+    <string name="fm_favorite_artist">Your favorite artist is %1$s</string>
+    <string name="log_out">Log Out</string>
+</resources>
